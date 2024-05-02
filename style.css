@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body {
+
+
+    background-color: hsl(330, 100%, 98%);
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+
+}
+
+
+
+.conteiner {
+
+    background-color: white;
+    width: 520px;
+    height: 1200px;
+    position: relative;
+    left: 385px;
+    margin-top: 15px;
+    border-radius: 10px;
+
+
+}
+
+.image-omelette {
+
+    width: 460px;
+    height: 200px;
+    position: absolute;
+    right: 29px;
+    top: 20px;
+    border-radius: 10px;
+
+}
+
+h1 {
+    position: relative;
+    top: 230px;
+    font-size: 22px;
+    left: 10px;
+    font-family: "Young Serif", serif;
+}
+
+p {
+
+    position: relative;
+    top: 245px;
+    font-size: 12px;
+    left: 16px;
+    font-family: "Outfit", sans-serif;
+    width: 100%;
+}
+
+.p-1 {
+
+    font-size: 12px;
+    font-family: "Outfit", sans-serif;
+
+}
+
+
+
+h2 {
+    position: relative;
+    left: 40px;
+    font-size: 18px;
+    top: 290px;
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+}
+
+span {
+
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Outfit", sans-serif;
+}
+
+.p-all {
+
+    position: relative;
+    top: 50px;
+    font-family: "Outfit", sans-serif;
+    left: 35px;
+    font-size: 13px;
+
+}
+
+.back-color {
+
+    width: 450px;
+    height: 100px;
+    background-color: hsl(30, 54%, 90%);
+    position: relative;
+    top: 210px;
+    z-index: -1;
+    border-radius: 10px;
+    left: 25px;
+
+}
+
+h3 {
+
+    position: relative;
+    top: 250px;
+    left: 40px;
+    font-family: "Young Serif", serif;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%);
+
+}
+
+.p-all2 {
+
+    position: relative;
+    margin-top: 10px;
+    left: 35px;
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+
+}
+
+.margin {
+    border-bottom: 1px solid;
+    width: 100%;
+    color: hsl(14, 45%, 36%);
+    width: 520px;
+    top: 630px;
+    position: absolute;
+
+}
+
+.p01,
+.p02,
+.p03,
+.p04,
+.p05 {
+    font-size: 12px;
+    font-family: "Outfit", sans-serif;
+
+
+}
+
+h4 {
+
+    position: relative;
+    top: 300px;
+    left: 40px;
+    font-family: "Young Serif", serif;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%);
+}
+
+.instructions {
+    font-size: 12px;
+    font-family: "Outfit", sans-serif;
+    position: relative;
+    top: 70px;
+    left: 27px;
+    margin-top: 5px;
+
+
+
+
+}
+
+.instructions p {
+
+    margin-top: 10px;
+
+}
+
+h5 {
+    position: relative;
+    top: 345px;
+    left: 40px;
+    font-family: "Young Serif", serif;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%);
+
+}
+
+.p-final {
+
+    font-size: 12px;
+    font-family: "Outfit", sans-serif;
+    position: relative;
+    top: 355px;
+    left: 50px;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+
+
